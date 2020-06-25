@@ -1,0 +1,17 @@
+.number {
+	border: 2px solid;
+	padding: 5px;
+	display: inline-block;
+	margin: 5px;
+}
+
+
+.circle {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin-top: 20px;
+	border: 2px solid teal;
+	background-color: salmon;
+	position: relative;
+}
